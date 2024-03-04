@@ -1,0 +1,10 @@
+.nav {
+    font-family: "Lato", sans-serif;
+    display: flex;
+    height: 64px;
+    background-color: red;
+}
+
+.logo {
+    display: flex; 
+}
